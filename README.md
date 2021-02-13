@@ -1,5 +1,5 @@
 # typeScript-na-pratica
-Projeto que implementado para mostrar a facilidade de construir o backend e o frontend usando typescript
+Projeto que implementado para mostrar a facilidade de construir o backend com Node.js e o frontend usando react native usando typescript
 
 # ✋🏻 Pré-requisitos
 - [Node.js](https://nodejs.org/en/)
