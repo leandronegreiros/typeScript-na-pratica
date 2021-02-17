@@ -18,6 +18,8 @@ Backend:
 -   [Node.js](https://nodejs.org/en/)
 -   [Express](https://expressjs.com/pt-br/)
 -   [TS Node](https://www.npmjs.com/package/ts-node-dev)
+-   [React](https://pt-br.reactjs.org/)
+-   [TypeScript](https://www.typescriptlang.org/)
 
 ## 🔥 Instalação e execução
 
